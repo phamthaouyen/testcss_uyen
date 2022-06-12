@@ -1,0 +1,21 @@
+button{
+    display: block;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    background-color: white;
+    cursor: pointer;
+}
+.bt{
+    
+}
+.bt1{
+    background-color:#F9B315;
+    color: white;
+}
+.bt2{
+    background-color: black;
+    color: white;
+}
+body{
+    
+}
